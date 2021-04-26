@@ -101,11 +101,6 @@ Use these guidelines as blueprint and adjust it to the needs of your project.
 ## General Formatting
 * Put every block element on a new line.
 * Indent every child element of a block element.
-* USE XHTML markup style, even in HTML5 documents (lowercase code, quotes around attribute values, close all elements that have content, quote boolean attributes). Do close all void elements according to the XHTML syntax (input, img, br, hr, etc).
-
-``` html
-select="selected"
-``` 
 
 ## HTML Quotation Marks
 
