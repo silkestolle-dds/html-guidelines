@@ -6,11 +6,6 @@ Every point in here are high recommendations.
 
 Use these guidelines as blueprint and adjust it to the needs of your project.  
 
-## Background
-* This document defines general HTML guidelines.
-* The purpose of this document is to improve the code quality and help collaboration by setting a common coding vocabulary.
-* The goal of this document is to achieve consistency across projects, improve projects scalability and lower maintenance costs.
-
 ## Coding principles
 * Start with the structure for the mobile view first before you write code for larger views. 
 * Keep accessibility in mind during coding (e.g. make sure the page is usable without mouse, the semantic is valid and images have alt- or title-values if it is relevant)
